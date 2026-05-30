@@ -1,9 +1,0 @@
-# macOS 시스템 파일
-.DS_Store
-
-# 컴파일 및 빌드 번들 폴더
-build/
-
-# 임시 이미지 및 아이콘 세트 부산물
-*.png
-AppIcon.iconset/
